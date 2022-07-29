@@ -6,7 +6,7 @@ FactorioRoller is an external tool written in Python + Cython for taking user sp
 
 Two distributions are included in this repo, where one is the source files written in python and cython plus the compiled python extension file (pyd) that is imported and the other is an exe made from auto-py-to-exe from the python source distribution.
 
-Included in the distributions is a Factorio mods folder with a mod that is derived from AntiElite's "Clean Map Preview" mod which is used to generate previews of random seeds with specific RGB values for resources for efficient counting of resources. This also allows the user to have their normal instance of Factorio running while rolling maps with the tool without interference.
+Included in the distributions is a Factorio mods folder with a mod that is derived from AntiElitz' "Clean Map Preview" mod which is used to generate previews of random seeds with specific RGB values for resources for efficient counting of resources. This also allows the user to have their normal instance of Factorio running while rolling maps with the tool without interference.
 
 When executed (either through running the exe file in the exe distro or through runninng FactorioRoller.py in the python distro), a terminal window and a UI will open. The UI has a series of parameters the user can adjust to modify how FactorioRoller searches. Values are all in the form of in-game tiles (except for water and crude oil which behave differently for some reason).
 
