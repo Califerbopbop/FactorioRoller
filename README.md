@@ -1,4 +1,4 @@
-# FactorioRoller
+# FactorioRoller (MANDATORY SETUP INSTRUCTIONS INCLUDED)
 
 For setup, you must go to https://www.factorio.com/download/archive/1.1.62 and download the windows .zip and extract the contents to a folder named "Factorio_x64_1.1.62" inside the distribution folder of your choice (exe is recommended so you don't have to also download python 3.10 for execution). Then cut and paste the "mods" folder downloaded in the distribution folder to the "Factorio_1.1.62" subfolder of "Factorio_x64_1.1.62". Then either execute the exe or open FactorioRoller.py with Python3.10 and the UI will open. More information on the distributions is below along with a description of how FactorioRoller works and how to use it.
 
